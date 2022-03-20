@@ -12,7 +12,7 @@
      </div>
 
      <div id="name">
-     <h1>Tritsan Frank</h1>
+     <h1>Tristan Frank</h1>
      <h2>ePortfolio Assignment 1</h2>
    </div>
 
