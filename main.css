@@ -1,0 +1,24 @@
+html, body {
+background: #353A47;
+font-family: Arial, Verdana;
+font-size: 16px;
+colour: #954569;
+}
+
+p {
+font-size: 1em;
+line-height: 1.4em;
+margin-bottom: 20px;
+colour: #954569;
+}
+
+h1 {
+border-bottom: 1px solid #000000
+padding: 20px 0 0;
+}
+
+h2 {
+font-size: 1.5em;
+colour: red
+padding: 20px 0 0;
+}
